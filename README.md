@@ -2,9 +2,9 @@
 
 **This repository include the reproducible codes, processes and relevant contents about the thesis:PyLUSAT: An open-source Python toolkit for GIS-based land use suitability analysis made by Yang. Li, Dong and Mai.**
 
-#项目名称：PyLUSAT文献复现分析报告
+# 项目名称：PyLUSAT文献复现分析报告
 
-##项目简介：
+## 项目简介：
 
 - 文献名称：PyLUSAT: An open-source Python toolkit for GIS-based land use suitability analysis
 
@@ -18,7 +18,7 @@
 
 - 项目概述：本项目依托矢量 GIS 技术框架，整合地理空间运算、数据转换、聚合分析三大类核心功能，开发了PyLUSAT这一开源、跨平台、高效率且可拓展的python工具包，主要应用于土地利用适宜性分析效率和精度的提升，为国土空间规划、生态格局优化、城镇用地布局等研究提供了轻量化、高效可复用的开源技术支撑。
 
-##数据说明：
+## 数据说明：
 
 - 数据来源：
   
@@ -35,29 +35,25 @@
 
 - 变量说明：PyLUSAT主要处理ArcGIS中的栅格与矢量数据，这些数据共同构成了典型土地利用适宜性分析中的评价因子与约束条件，继而通过加权分析实现土地适宜性分析、距离分析与空间叠加计算。
 
-##文件结构：
+## 文件结构：
 
-、、、
+```text
+PyLUSAT/  
+│  
+├── data/ # 原始数据
+├── scripts/ # 复现脚本  
+├── results/ # 结果输出  
+├── notebooks/ # Jupyter Notebook文件  
+├── README.md # 项目说明文档  
+```
 
-
-
-data/    -  数据文件
-
-scripts/   - 复现步骤
-
-results/  - 复现结果
-
-
-
-、、、
-
-##运行环境：
+## 运行环境：
 
 - Anaconda Prompt version: 25.11.1 （[Anaconda, Inc. (formerly Continuum Analytics, Inc.) · GitHub](https://github.com/ContinuumIO)）
 
 - Jupyter Notebook version: 2.16.0   [(https://github.com/jupyter/notebook)](https://github.com/jupyter/notebook)
 
-##作者
+## 作者
 
 - 杨丽萍  2025303110007
 
