@@ -55,10 +55,10 @@ PyLUSAT/
 
 ## 作者
 
-- 杨丽萍  2025303110007
+- 杨丽萍  2025303110007  [@justleap-amdd](https://github.com/justleap-amdd)
 
-- 李春雪   2025303120171
+- 李春雪   2025303120171  [@lcx920](https://github.com/lcx920)
 
-- 董娟     2025303120140
+- 董娟     2025303120140  [@dj4296](https://github.com/dj4296)
 
-- 买柯馨    2025303120066
+- 买柯馨    2025303120066  [@Maikexin](https://github.com/Maikexin)
