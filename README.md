@@ -51,14 +51,14 @@ PyLUSAT/
 
 - Anaconda Prompt version: 25.11.1 （[Anaconda, Inc. (formerly Continuum Analytics, Inc.) · GitHub](https://github.com/ContinuumIO)）
 
-- Jupyter Notebook version: 2.16.0   [(https://github.com/jupyter/notebook)](https://github.com/jupyter/notebook)
+- Jupyter Notebook version: 2.16.0   [(https://github.com/jupyter/notebook)](https://github.com/jupyter/notebook)
 
 ## 作者
 
-- 杨丽萍  2025303110007  [@justleap-amdd](https://github.com/justleap-amdd)
+- 杨丽萍  2025303110007  [@justleap-amdd](https://github.com/justleap-amdd)
 
-- 李春雪   2025303120171  [@lcx920](https://github.com/lcx920)
+- 李春雪   2025303120171  [@lcx920](https://github.com/lcx920)
 
-- 董娟     2025303120140  [@dj4296](https://github.com/dj4296)
+- 董娟    2025303120140  [@dj4296](https://github.com/dj4296)
 
-- 买柯馨    2025303120066  [@Maikexin](https://github.com/Maikexin)
+- 买柯馨   2025303120066  [@Maikexin](https://github.com/Maikexin)
